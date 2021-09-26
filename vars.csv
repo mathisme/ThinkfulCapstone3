@@ -1,30 +1,30 @@
-Variable, Question/Description, Category
-DEPEV_A, Ever had depression, depression
-DEPFREQ_A, How often depressed, depression
-DEPMED_A, Take medication for depression, depression
-DEPLEVEL_A, Level of how depressed, depression
-PHQ81_A, How often little interest in things past 2 weeks, depression
-PHQ82_A, How often feeling down past 2 weeks, depression
-PHQ83_A, How often trouble with sleeping past 2 weeks, depression
-PHQ84_A, How often feeling tired past 2 weeks, depression
-PHQ85_A, How often undereating or overeating past 2 weeks, depression
-PHQ86_A, How often feeling bad about self past 2 weeks, depression
-PHQ87_A, How often trouble concentrating past 2 weeks, depression
-PHQ88_A, How often moving or speaking slow or fast past 2 weeks, depression
-AGEP_A, Age, demographics
-SEX_A, Sex, demographics
-MARITAL_A, Marital status, demographics
-FAMINCTC_A, Family Income, demographics
-EDUC_A, Education, demographics
-EMPWRKLSWK_A, Working, demographics
-RACEALLP_A, Race, demographics
-HISP_A, Ethnicity, demographics
-OPD12M_A, Opiod use, substances
-SMKNOW_A, Cigarette use, substances
-ECIGNOW_A, Ecigarette use, substances
-HYPEV_A, Ever been told you have hypertension, chronic_conditions
-CHLEV_A, Ever been told you have high cholesterol, chronic_conditions
-ASEV_A, Ever been told you have asthma, chronic_conditions
-CANEV_A, Ever been told you have cancer, chronic_conditions
-DIBEV_A, Ever been told you have diabetes, chronic_conditions
-COPDEV_A, Ever been told you have COPD emphysema or chronic bronchitis, chronic_conditions
+Variable,Question/Description,Category
+DEPEV_A,Ever had depression,depression
+DEPFREQ_A,How often depressed,depression
+DEPMED_A,Take medication for depression,depression
+DEPLEVEL_A,Level of how depressed,depression
+PHQ81_A,How often little interest in things past 2 weeks,depression
+PHQ82_A,How often feeling down past 2 weeks,depression
+PHQ83_A,How often trouble with sleeping past 2 weeks,depression
+PHQ84_A,How often feeling tired past 2 weeks,depression
+PHQ85_A,How often undereating or overeating past 2 weeks,depression
+PHQ86_A,How often feeling bad about self past 2 weeks,depression
+PHQ87_A,How often trouble concentrating past 2 weeks,depression
+PHQ88_A,How often moving or speaking slow or fast past 2 weeks,depression
+AGEP_A,Age,demographics
+SEX_A,Sex,demographics
+MARITAL_A,Marital status,demographics
+FAMINCTC_A,Family Income,demographics
+EDUC_A,Education,demographics
+EMPWRKLSWK_A,Working,demographics
+RACEALLP_A,Race,demographics
+HISP_A,Ethnicity,demographics
+OPD12M_A,Opiod use,substances
+SMKNOW_A,Cigarette use,substances
+ECIGNOW_A,Ecigarette use,substances
+HYPEV_A,Ever been told you have hypertension,chronic_conditions
+CHLEV_A,Ever been told you have high cholesterol,chronic_conditions
+ASEV_A,Ever been told you have asthma,chronic_conditions
+CANEV_A,Ever been told you have cancer,chronic_conditions
+DIBEV_A,Ever been told you have diabetes,chronic_conditions
+COPDEV_A,Ever been told you have COPD emphysema or chronic bronchitis,chronic_conditions
